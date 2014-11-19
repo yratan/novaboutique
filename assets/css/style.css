@@ -1,0 +1,8 @@
+.tabela {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.style3 {font-size: 12px}
+
+.error {border-color: red !important;}
+label.error {position: absolute; top:-99999px !important; right:-99999px !important;}
