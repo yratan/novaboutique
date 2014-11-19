@@ -2,6 +2,7 @@
 
 class Admin extends MY_Controller {
 
+	//teste
 	public function __construct()
 	{
 		parent::__construct();
